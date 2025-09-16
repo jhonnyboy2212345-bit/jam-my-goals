@@ -1,6 +1,6 @@
 import { Tabs } from 'expo-router'
 import { Ionicons } from "@expo/vector-icons"
-import { GoalsProvider } from '../../contexts/GoalsContext'
+import { GoalsProvider } from '../../context/GoalsContext'
 
 export default function GoalsLayout() {
 
